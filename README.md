@@ -1,3 +1,15 @@
-# URL Shortener Microservice
+# URL Shortner Microservice
 
-This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
+Solution for the FCC Back End Development and APIs challenge #3
+
+# Description:
+A URL shortner , enter the URL you want to shorten then enter the number returned in the request to https://project-urlshortener.eyepatch0.repl.co/api/shorturl/{the_number_returned} and it will redirect you to the original url.
+
+# Used:
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JavaScript
+
+
